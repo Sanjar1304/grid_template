@@ -401,11 +401,11 @@ p{
 }
 
 .b-camp-content h5{
-    transform: translateX(20%);
+    text-align: center;
 }
 
 .b-camp-content a{
-    transform: translateX(85%);
+    transform: translateX(67%);
 }
 
 .bootcamps{
